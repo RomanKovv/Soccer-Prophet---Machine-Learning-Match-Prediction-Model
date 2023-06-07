@@ -4,6 +4,7 @@ BrainStation Capstone
 
 Soccer Prophet: Machine Learning Techniques for Accurate Match Predictions
 By: Roman Kovalchuk
+
 Contact: rmnkov@gmail.com
 
 The following are the files contained in this project
